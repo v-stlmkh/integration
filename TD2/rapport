@@ -1,0 +1,15 @@
+# Rapport — [TD2]
+
+## Points clés
+
+### 1. [Justification des choix CSS et HTML]
+
+[Le HTML de base nous a été fourni, donc je ne l’ai presque pas modifié. J’ai simplement ajouté le lien vers le fichier style.css pour pouvoir appliquer la mise en forme.
+Pour le design, j’ai choisi des couleurs neutres comme le beige et le marron afin de créer une ambiance douce et naturelle, qui correspond bien au thème du voyage léger et du minimalisme. J’ai aussi fait attention à la lisibilité du texte en ajoutant de l’espace entre les lignes et en limitant la largeur du contenu pour que la lecture soit plus confortable. J’ai ajouté des espaces entre les sections et les éléments pour que la page soit plus aérée et plus agréable visuellement.
+Pour organiser certains éléments de la page, j’ai utilisé Flexbox, par exemple dans la navigation, afin d’aligner les éléments sur une ligne et de garder une mise en page simple. J’ai préféré utiliser Flexbox plutôt que Grid car la structure du site est assez simple et Flexbox permet déjà d’obtenir un résultat clair et responsive sans rendre le CSS trop compliqué. L’objectif était de garder un style sobre, lisible et cohérent avec le thème du site.]
+
+## Utilisation de l'IA
+
+### Démarche
+
+[J’ai utilisé ChatGPT pour mieux comprendre comment structurer les blocs CSS et pour corriger les fautes d’orthographe dans l’explication des choix.]
