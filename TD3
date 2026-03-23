@@ -4,25 +4,18 @@
 
 ### 1. [Expliquez le modèle événement → état → rendu]
 
-[Explication en 1-2 phrases avec vos mots.]
+[Ce modèle sert à comprendre comment fonctionne une interaction sur un site web. Premièrement, il y a un événement, quelque chose que fait l’utilisateur. Ensuite, cet événement provoque un changement d’état (menu qui s'ouvre par exemple. Enfin, il y a le rendu, donc ce qui change visuellement à l’écran.]
 
 ### 2. [Expliquez en quoi classList.toggle est la passerelle entre JS et CSS]
 
-[Explication en 1-2 phrases avec vos mots.]
+[classList.toggle est la passerelle entre JavaScript et CSS parce qu’il permet de relier le comportement et l’apparence. Le JS détermine qu’un changement doit se produire. Pour le faire, il ajoute ou enlève une classe avec classList.toggle. Ensuite, c’est le CSS qui utilise cette classe pour modifier l’affichage.]
  
 ## Utilisation de l'IA
 
 ### Démarche
 
-[ChatGPT pour corriger les fautes dans les réponces]
+[ChatGPT]
 
 ### Apports et limites
 
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
-
-### Prompts significatifs
-
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
+[Corriger les fautes dans les réponses et mieux comprendre à quoi sert la commande classList.toggle.]
